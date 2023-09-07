@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fruitvegsite/static/css/main.e2c80124.css",
+    "main.css": "/fruitvegsite/static/css/main.493cbad2.css",
     "main.js": "/fruitvegsite/static/js/main.d19ac1a7.js",
     "static/js/787.bc7d429a.chunk.js": "/fruitvegsite/static/js/787.bc7d429a.chunk.js",
     "static/media/forma.svg": "/fruitvegsite/static/media/forma.dc47a71954dc155f7eb563de05c8141e.svg",
@@ -8,12 +8,12 @@
     "static/media/tomato_bunch.png": "/fruitvegsite/static/media/tomato_bunch.9480f22560405738fc65.png",
     "static/media/logo.png": "/fruitvegsite/static/media/logo.1dad0454367747215a85.png",
     "index.html": "/fruitvegsite/index.html",
-    "main.e2c80124.css.map": "/fruitvegsite/static/css/main.e2c80124.css.map",
+    "main.493cbad2.css.map": "/fruitvegsite/static/css/main.493cbad2.css.map",
     "main.d19ac1a7.js.map": "/fruitvegsite/static/js/main.d19ac1a7.js.map",
     "787.bc7d429a.chunk.js.map": "/fruitvegsite/static/js/787.bc7d429a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2c80124.css",
+    "static/css/main.493cbad2.css",
     "static/js/main.d19ac1a7.js"
   ]
 }
